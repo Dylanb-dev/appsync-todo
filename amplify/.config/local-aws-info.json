@@ -1,0 +1,7 @@
+{
+    "test": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "/Users/dylanbroadbridge/.amplify/awscloudformation/fHcW7UP955"
+    }
+}
