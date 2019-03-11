@@ -1,7 +1,9 @@
 ### Set up AWS amplify
 
 `npm install -g @aws-amplify/cli`
+
 `amplify configure`
+
 `amplify init`
 
 ### Install dependencies
